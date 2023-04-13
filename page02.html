@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio</title>
+  <!-- 引入必要的 CSS -->
+  <link rel="stylesheet" href="assets/vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/vendor/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="assets/vendor/isotope-layout/isotope.pkgd.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+
+  <!-- 頁面內容 -->
+  <!-- <section id="portfolio" class="portfolio">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 d-flex justify-content-center">
+          <ul id="portfolio-flters">
+            <li data-filter="*" class="filter-text0">全部</li>
+            <li data-filter=".filter-text1">瀝青類</li>
+            <li data-filter=".filter-text2">混凝土類</li>
+            <li data-filter=".filter-text3">土壤類</li>
+            <li data-filter=".filter-text4">金相類</li>
+            <li data-filter=".filter-text5">其他</li>
+            <li>
+              <input type="search" class="light-table-filter" data-table="order-table" placeholder="請輸入關鍵字">
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="row portfolio-container">
+        <div id="event"></div>
+      </div>
+    </div>
+  </section> -->
+
+  <!-- 引入必要的 JavaScript -->
+  <!-- <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/js/script.js"></script>
+ -->
+ <section id="portfolio" class="portfolio">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 d-flex justify-content-center">
+        <ul id="portfolio-flters">
+          <li data-filter="*" class="filter-text0">全部</li>
+          <li data-filter=".filter-text1">瀝青類</li>
+          <li data-filter=".filter-text2">混凝土類</li>
+          <li data-filter=".filter-text3">土壤類</li>
+          <li data-filter=".filter-text4">金相類</li>
+          <li data-filter=".filter-text5">其他</li>
+          <input type="search" class="light-table-filter" data-table="order-table" placeholder="請輸入關鍵字">
+        </ul>
+      </div>
+    </div>
+
+    <!-- JSON資料 -->
+    <div class="row portfolio-container">
+      <div id="event"></div>
+    </div>
+  </div>
+</section>
+
+
+
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script> 
+  <!-- <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script> -->
+  <!-- <script src="assets/vendor/php-email-form/validate.js"></script> -->
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <!-- <script src="assets/vendor/venobox/venobox.min.js"></script>
+  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script> -->
+  <!-- <script src="assets/vendor/aos/aos.js"></script> -->
+  <script src="assets/js/main.js"> </script> 
+
+
+ 
+
+
+
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+<!-- 導入json --> 
+<script>
+ 
+    // 建立 XHR 物件
+    var xhr = new XMLHttpRequest();
+
+    // 設置 HTTP 方法和網址
+    xhr.open('GET', 'assets/js/json1.json');
+
+    // 設置回呼函式
+    xhr.onload = function() {
+     
+        if (xhr.status === 200) {
+        responseObject = JSON.parse(xhr.responseText);
+        console.log(responseObject) 
+
+
+        var newContent = '';
+        let html = ''
+        for (var i = 0; i < responseObject.company.length; i++) {          
+          for (var j = 0; j < responseObject.company[i]['data'].length; j++) {
+            
+            html += `
+           
+        
+        <div class="col-lg-4 col-md-6 portfolio-item filter-text${ responseObject.company[i]['data'][j]['filte']}">          
+           <h5>${responseObject.company[i]['data'][j]['number']} │ <b>${responseObject.company[i]['data'][j]['productName']}</b></h5>`
+            //以上是外層分類
+            //277 分五類共幾個產品
+            // console.log(responseObject.company[i]['data'][j]['filte'])
+            //278 分五類與編號跟產品名稱
+            // console.log(responseObject.company[i]['data'][j]['number'] +  responseObject.company[i]['data'][j]['productName'])
+            //282 data-toggle="modal" 表示點擊此按鈕會觸發 Modal 彈出框的顯示
+          
+            html += `
+            <div class="links2">
+                <button type="button" class="department_box5_button" data-toggle="modal" data-target="#a${i}${j}">
+                 <i class="bx bx-plus"></i></button>
+            </div>`
+            //這段是手機板RWD的展開按紐
+          
+          
+            html += `
+              <div class="portfolio-wrap">
+                  <div class="portfolio-links">
+                        <button type="button" class="department_box5_button" data-toggle="modal" data-target="#a${i}${j}">
+                        <i class="bx bx-plus">MORE+</i></button>
+                  </div>              
+                        <img  src="img/${responseObject.company[i]['data'][j]['image']}.jpg"  style="height: 200px;" class="img-fluid"  alt="" >
+                  <div class="portfolio-info">
+                        <h4>${responseObject.company[i]['data'][j]['number']}</h4>
+                        <p>${responseObject.company[i]['data'][j]['productName']}</p>
+                  </div>                   
+              </div>
+        </div>
+      </div>`
+             //299 照片編碼 console.log(responseObject.company[i]['data'][j]['image'])
+            //以上是外層資料顯示
+
+
+
+            html += `
+     
+    <div class="modal fade" id="a${i}${j}" tabindex="-1" aria-labelledby="myLargeModalLabel" style="display: none;"aria-hidden="true">
+     
+      <div class="modal-dialog modal-lg" role="document">
+          <div class="modal-content">         
+                <div class="modal-header">          
+
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span></button>
+                   
+                    <h4 class="modal-title"><small>CLOSE</small> │ <b>${responseObject.company[i]['data'][j]['classification']}</b></h4>
+                </div>`
+
+            //modal彈跳視窗
+            //aria-labelledby="myLargeModalLabel"螢幕閱讀器等輔助技術,role="document"表示是一個文件
+            //tabindex="-1"鏈接將被排除在TAB鍵的序列之外
+            //console.log(responseObject.company[i]['data'][j]['classification'])分類
+
+
+
+
+            // ↓↓設定圖片下載包覆 
+            html += `<div class="modal-body">    
+              <div id="chart${i}${j}">
+              <button id="btnSave" class="btn btn-danger" onclick="screenshot('${i}${j}')">Download</button>
+               `
+
+            //以下是內層資料              
+            html += ` <div class="row">
+                      <div class="col-xs-5 col-md-5"><img class="img1" src="img/${responseObject.company[i]['data'][j]['image']}.jpg"></div>
+                          <div class="col-xs-7 col-md-7">
+                            
+                              <ul class="teacher-skill">
+                              <li><b style="font-size: 12px;">產品編號：ZC${responseObject.company[i]['data'][j]['number']}</b></li>
+                              <li><b style="font-size: 12px;">產品名稱：${responseObject.company[i]['data'][j]['productName']}</b></li>
+                              <li><b style="font-size: 12px;">規&emsp;&emsp;格：</br>${responseObject.company[i]['data'][j]['size']}</b></li>
+                              </ul>
+                              <div ="zh"><P style="color:blue;">*贊誠企業有限公司所有 僅供網路瀏覽使用*</P>
+                              </div>
+                          </div>                         
+                       </div>
+                   </div>
+
+
+               
+              </div>
+           </div>        
+       </div>   
+    </div>
+   
+    `
+            //以上是內層資料
+          }
+        }
+        // console.log(i)
+        // console.log(responseObject.company[i]['data'][j]['number']);
+        document.getElementById('event').innerHTML = html;
+      } else{
+        document.getElementById('event').innerHTML = "沒回來";
+      }
+    }
+    xhr.send(null);
+  </script>
+
+<!-- 資料另存圖片 -->       
+  <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+  <script>
+    function screenshot(e) {
+
+      html2canvas(document.getElementById('chart' + e), {
+        scrollY: 0
+      }).then(function (canvas) {
+        //生成的图片会根据滚动条位置截图，我滚动条滚动到下面的话，生成的图会有空白,scrollY: 0才可以
+
+        // document.body.appendChild(canvas);
+        var a = document.createElement('a');
+        a.href = canvas.toDataURL("image/jpeg", 0.92).replace("image/jpeg", "image/octet-stream");
+        a.download = 'image.jpg';
+        a.click();
+      });
+    }
+  </script>
+
+
+<!--篩選功能-->
+
+<script>
+    //監聽跳按"收尋"會跳到"全部"的分類
+document.querySelector('.light-table-filter').addEventListener('focus', function() {
+  document.querySelector('[data-filter="*"]').click();
+  this.removeAttribute('disabled');
+});
+
+
+
+// 在input輸入框輸入時觸發事件
+document.addEventListener("DOMContentLoaded", function() {
+  const input = document.querySelector(".light-table-filter");
+  input.addEventListener("keyup", function() {
+    const filterValue = this.value.toLowerCase(); // 將輸入內容轉成小寫字母
+    const portfolioItems = document.querySelectorAll(".portfolio-item");
+    portfolioItems.forEach(function(item) {
+      const dataFilterValue = item.getAttribute("data-filter").toLowerCase(); // 將該項目的data-filter值轉成小寫字母
+      if (dataFilterValue.indexOf(filterValue) > -1) { // 如果該項目的data-filter值包含輸入內容，則顯示該項目
+        item.style.display = "";
+      } else { // 否則隱藏該項目
+        item.style.display = "none";
+      }
+    });
+  });
+});
+
+
+
+
+
+
+
+  $(document).ready(function() {
+    // 篩選功能
+    var portfolioIsotope = $('.portfolio-container').isotope({
+      itemSelector: '.portfolio-item',
+      layoutMode: 'fitRows'
+    });
+
+    $('#portfolio-flters li').on('click', function() {
+      $("#portfolio-flters li").removeClass('filter-active');
+      $(this).addClass('filter-active');
+
+      portfolioIsotope.isotope({
+        filter: $(this).data('filter')
+      });
+      aos_init();
+    });
+
+    // 中文搜尋功能
+    $('.light-table-filter').on('keyup', function() {
+      var searchValue = $(this).val().toLowerCase();
+
+      portfolioIsotope.isotope({
+        filter: function() {
+          return $(this).text().toLowerCase().indexOf(searchValue) > -1;
+        }
+      });
+
+      // 清除篩選標籤的選中狀態
+      $("#portfolio-flters li").removeClass('filter-active');
+    });
+
+    // 中文搜尋清除功能
+    $('button[data-table="order-table"]').next().on('click', function() {
+      $('.light-table-filter').val('');
+      portfolioIsotope.isotope({
+        filter: '*'
+      });
+      $("#portfolio-flters li").removeClass('filter-active');
+    });
+
+    // 當搜尋框被點擊時，自動點擊全部標籤，並移除禁用狀態
+    $('.light-table-filter').on('focus', function() {
+      $('[data-filter="*"]').click();
+      $(this).removeAttr('disabled');
+    });
+
+    // 清除搜尋框內容
+    function clean() {
+      $('.light-table-filter').val('');
+    }
+
+    $('button').on('click', function() {
+      $('.light-table-filter').focus().click();
+    });
+  });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>

@@ -1,0 +1,1196 @@
+{
+  "company": [{
+
+      "cat": "le",
+
+      "data": [{
+          "classification": "瀝青類",
+          "number": "1-1",
+          "productName": "馬歇爾試驗儀",
+          "size": "1.機械式計數器、5.5lb、10lb可互換<br>2.12-18ln支落距、夯實接觸面積 2in圓形<br>3.符合CNS國家認證<br>4.電源110v/單相<br>5.馬力&frac12;hp<br>6.重量約90kg<br>7.尺寸700*450*120mm<br>備&emsp;&emsp;註：模具及相關配件需另選購",
+          "image": "A01",
+          "filte": "1"
+        },
+
+
+        {
+          "classification": "瀝青類",
+          "number": "1-2",
+          "productName": "穩定模4”",
+          "size": "1.4ln模<br>2.馬歇爾專用模",
+          "image": "A02",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-3",
+          "productName": "穩定模6”",
+          "size": "1.6ln模<br>2.馬歇爾專用模",
+          "image": "A03",
+          "filte": "1"
+
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-4",
+          "productName": "間接張力4”",
+          "size": "1.4ln-6ln 模<br>2.馬歇爾專用模<br>3.重量約4kg、5kg<br>4.尺寸約101.6mm-、152.4mm",
+          "image": "A04",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-5",
+          "productName": "間接張力6”",
+          "size": "1.4ln-6ln 模<br>2.馬歇爾專用模<br>3.重量約4kg、5kg<br>4.尺寸約101.6mm-、152.4mm",
+          "image": "A05",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-6",
+          "productName": "瀝青延展性銅模",
+          "size": "1.4ln-6ln 模<br>2.馬歇爾專用模",
+          "image": "A06",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-7",
+          "productName": "電動瀝青油壓式頂樣器4”x6”",
+          "size": "1.可調式0-75mm/min，頂樣圓盤及鋼模固定板4ln/6ln可互換<br>2.機台前後均設活動門片採電動開關、手離開關時自動提機模<br>3.加壓方式：油壓方式、頂樣時由上往下將樣品頂出<br>4.電源：220v/三相<br>5.馬力功率約750w<br>6.最大容量約4ton<br>7.尺寸約50*60*150 ±5cm",
+          "image": "A07",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-8",
+          "productName": "變頻式瀝青洗油機3000g",
+          "size": "1.轉速約3700rpm<br>2.符合:ASTM、AASHTO規範<br>3.電源:220v/60hz/單相/馬力1hp<br> 4.防爆型馬達重量約3000kg<br>5.尺寸約50*37*55cm",
+          "image": "A08",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-9",
+          "productName": "鋁盆",
+          "size": "變頻式瀝青洗油機3000g鋁盆選購",
+          "image": "A09",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-10",
+          "productName": "變頻式瀝青洗油機4000g",
+          "size": "1.轉速約3700rpm<br>2.符合:ASTM、AASHTO規範<br>3.電源:220v/60hz/單相/馬力1hp<br> 4.防爆型馬達重量約4000g<br>5.尺寸約50*37*55cm",
+          "image": "A10",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-11",
+          "productName": "鋁盆",
+          "size": "變頻式瀝青洗油機4000g鋁盆選購",
+          "image": "A11",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-12",
+          "productName": "變頻式高速離心機",
+          "size": "1.符合:CNC國家認證<br>2.電源:220v/單相<br>3.馬力:1hp 防爆型馬達<br>4.重量:約50kg<br>",
+          "image": "A12",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-13",
+          "productName": "新型離心杯",
+          "size": "選購商品",
+          "image": "A13",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-14",
+          "productName": "三公尺直尺",
+          "size": "1.鋁製中空型<br>2.配件:鋁製斜度量尺x2",
+          "image": "A14",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-15",
+          "productName": "三角量尺",
+          "size": "選購商品",
+          "image": "A15",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-16",
+          "productName": "路面平坦儀",
+          "size": "1.指針式<br>2.重量約60kg",
+          "image": "A16",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-17",
+          "productName": "瀝青夯實模4”",
+          "size": "1.規格:4吋<br>2.符合CNS國家認證",
+          "image": "A17",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-18",
+          "productName": "瀝青夯實模6”",
+          "size": "1.規格:6吋<br>2.符合CNS國家認證",
+          "image": "A18",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-19",
+          "productName": "瀝青夯打機4x6兩用型",
+          "size": "選購商品",
+          "image": "A19",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-20",
+          "productName": "電動瀝青夯實機4”",
+          "size": "1.規格:4吋<br>2.符合:CNS國家認證<br>3.電源:110v<br>4.馬力:&frac12;hp<br>5.落距:18英吋/5.5磅",
+          "image": "A20",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-21",
+          "productName": "電動夯錘4”",
+          "size": "選購商品",
+          "image": "A21",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-21-1",
+          "productName": "鍊條",
+          "size": "電動夯錘選購商品",
+          "image": "A21-1",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-22",
+          "productName": "電動瀝青夯實機6”",
+          "size": "1.規格:6吋<br>2.符合CNS國家認證<br>3.電源110v<br>4.馬力&frac12;hp<br>5.落距18英吋/10磅",
+          "image": "A22",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-23",
+          "productName": "電動夯錘6”",
+          "size": "4”/6”選購",
+          "image": "A23",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-24",
+          "productName": "手動瀝青夯實機4”",
+          "size": "1.4”<br>2.符合CNS國家認證",
+          "image": "A24",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-25",
+          "productName": "手動夯錘4”",
+          "size": "4”選購",
+          "image": "A25",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-26",
+          "productName": "手動夯錘4”(含護指環)",
+          "size": "選購商品",
+          "image": "A26",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-27",
+          "productName": "手動瀝青夯實機 6&quot;",
+          "size": "1.6”<br>2.符合CNS國家認證",
+          "image": "A27",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-28",
+          "productName": "手動夯錘6”",
+          "size": "選購商品",
+          "image": "A28",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-29",
+          "productName": "瀝青野外透水",
+          "size": "1.壓克力管容量約1000ml<br>2.重量約5kg/砝碼x1",
+          "image": "A29",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-30",
+          "productName": "瀝青分樣器",
+          "size": "選購商品",
+          "image": "A30",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-30-1",
+          "productName": "瀝青手動頂樣器兩用型",
+          "size": "1.衝程約110mm<br>2.千斤頂約10頓",
+          "image": "A30-1",
+          "filte": "1"
+        },
+        {
+          "classification": "瀝青類",
+          "number": "1-31",
+          "productName": "地面柏油加熱器(台車)",
+          "size": "選購商品",
+          "image": "A31",
+          "filte": "1"
+        }
+      ]
+    },
+    {
+
+      "cat": "wl",
+
+      "data": [{
+          "classification": "混凝土類",
+          "number": "2-1",
+          "productName": "油壓式粗骨材搖篩機(加門加蓋)",
+          "size": "1.上下震動搖篩方式、油壓式固定篩網<br>2.油壓幫浦附加安全迴路確保油壓缸不應高壓而產生故障<br>3.單一開關簡單啟動,快速洩壓可讓使用者更快取得搖篩樣式<br>4.符合CNS國家認證 <br>5.電源:110v<br>6.馬力&frac13;hp<br>7.轉速約625rpm /60hz <br>8.重量約200kg<br>9.尺寸約1050*650*750mm <br>附件:篩網 &frac32; 1 &frac34; &frac12; &frac38; #4、底盤x1",
+          "image": "B01",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-2",
+          "productName": "油壓式粗骨材搖篩機",
+          "size": "1.上下震動搖篩方式、油壓式固定篩網<br>2.油壓幫浦附加安全迴路確保油壓缸不應高壓而產生故障<br>3.單一開關簡單啟動,快速洩壓可讓使用者更快取得搖篩樣式<br>4.符合CNS國家認證 <br>5.電源:110v<br>6.馬力&frac13;hp<br>7.轉速約625rpm /60hz <br>8.重量約200kg<br>9.尺寸約1050*650*750mm <br>附件:篩網 &frac32; 1 &frac34; &frac12; &frac38; #4、底盤x1",
+          "image": "B02",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-2-1",
+          "productName": "長方篩 (篩+框)(台製)",
+          "size": "選購商品",
+          "image": "B02-1",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-2-2",
+          "productName": "長方篩網(台製)",
+          "size": "選購商品",
+          "image": "B02-2",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-3",
+          "productName": "機械式粗骨材搖篩機",
+          "size": "1.水平方式轉動、封密式降低噪音<br>2.電源:110v、220v/單相<br>3.馬力&frac12;hp<br>4.轉速約344rpm<br>5.重量約200kg<br>附件:篩網 &frac32; 1 &frac34; &frac12; &frac38; #4、底盤x1",
+          "image": "B03",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-4",
+          "productName": "新型細骨材搖篩機8&quot;",
+          "size": "1.8英吋<br>轉速:約286rmp<br>3.打擊數約86下<br>4.電源:110v、220v/單相<br>馬力&frac13;hp直立式馬達<br> 5.重量約75kg<br>6.尺寸約900*450*750mm<br> 其他:面板60分鐘定時器、電源燈、保險絲(以訂購為標準)",
+          "image": "B04",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-4-1",
+          "productName": "數位計時搖篩機8&quot;",
+          "size": "選購商品",
+          "image": "B04-1",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-4-2",
+          "productName": "數位計時搖篩機12&quot;",
+          "size": "選購商品",
+          "image": "B04-2",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-5",
+          "productName": "新型細骨材搖篩機12&quot;",
+          "size": "1.12英吋<br>轉速:約280rmp<br>3.打擊數約79下<br>4.電源:110v、220v/單相<br>馬力&frac13;hp直立式馬達<br> 5.重量約75kg<br>6.尺寸約1000*450*750mm<br> 其他:控制系統60分鐘定時器、電源燈、保險絲(以訂購為標準)",
+          "image": "B05",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-6",
+          "productName": "落杉機磨耗試驗儀",
+          "size": "1.大型洩料盤700*700*60、附安全開關<br>2.符合CNS國家認證 <br>3.電源 220v/單相<br>4.馬力約1hp<br>5.轉速約30~33rpm<br>6.重量約350kg<br>7.尺寸約700*1350*1050mm<br>附件:12顆標準鋼珠、非接觸式計數器",
+          "image": "B06",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-7",
+          "productName": "混凝土振動台 500x500",
+          "size": "選購商品",
+          "image": "B07",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-8",
+          "productName": "混凝土振動台500x500 (含變頻器)",
+          "size": "選購商品",
+          "image": "B08",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-9",
+          "productName": "混凝土試體研磨機 (單)",
+          "size": "1.鑽石螺紋研磨盤直徑約175mmx1無段變速進刀<br>2.水冷式自動供水系統、手動幫浦進行給油、不鏽鋼蓄水盤、不鏽鋼水罩<br>3.可手動或電動研磨、試體可磨: 15*30cm x1、10*20cm x1 5*10cm x1<br>4.符合CNS國家認證<br>5.電源220v/三相<br>6.馬力1hp、搖擺馬力約40w、輸送馬力約25w<br> 7.重量約200kg<br>8.尺寸約720*860*1060mm、研磨平整度0.05mm以內<br> 附件:過載保護開關、定時器(具緊急停止裝置)<br>壓克力試體擋水板各x1、PU進水管及出水管x1、<br>V型試體墊片5/10/15各x1",
+          "image": "B09",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-10",
+          "productName": "混凝土試體研磨機 (雙)",
+          "size": "1.鑽石螺紋研磨盤直徑約200mm x1、無段變速進刀<br>2.水冷式自動供水系統、 手動幫浦進行給油、不鏽鋼蓄水盤、不鏽鋼水罩<br>3.可手動或電動研磨、試體可磨: 15*30cm x2、10*24cm x2 10*20cm x3 7.5*15cm x3、5.5*11cm x3、5*10cm x3<br>4.符合CNS國家認證 <br>5.電源220v/三相<br>6.馬力1hp、搖擺馬力約40w、輸送馬力約25w <br>7.重量約200kg<br>8.尺寸約720*860*1060mm<br>9.研磨平整度0.05mm以內<br>附件:過載保護開關、定時器(具緊急停止裝置)、壓克力試體擋水板孔<br>直徑約8/10/12/15cm各x1、(8cm適用7.5*15cm、5.5*11cm、5*10cm)PU進水管及出水管x1",
+          "image": "B10",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-11",
+          "productName": "小型震動試驗儀",
+          "size": "1.坍度筒直徑:上100mm、下200mm、高300mm試驗筒內尺寸直徑240mm*高200mm支撐導引桿、可任意旋轉固定、一邊可導引料、一邊可導引承座盤<br>2.電源220v/三相<br>3.可調式振動馬達60hz<br>4.重量2.75kg±50g<br>5.T型承載盤<br>6.380*260mm ±3",
+          "image": "B11",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-12",
+          "productName": "大型震動振動台 760x760",
+          "size": "1.電源:220v/三相<br>2.馬力:&frac14hp <br>3.重量約80kg",
+          "image": "B12",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-13",
+          "productName": "電動搖擺器",
+          "size": "1.轉速約175rpm無段變速<br>2.電源110v<br>3.馬力90w<br>4.重量約40kg<br>5.尺寸約600*450*450mm<br>附件 自動計速器、鋁合金夾具、固定導管",
+          "image": "B13",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-14",
+          "productName": "落沉試驗儀",
+          "size": "1.符合ASTM、AASHTO<br>2.重量14±0.05kg",
+          "image": "B14",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-15",
+          "productName": "混凝土試體切割機",
+          "size": "1.可切割試體直徑5~15cm、可手動進刀、進刀時具有極限斷電功能、螺桿傳動、試體切割時可藉由大型透視窗觀看、透視窗具基本安全防護、可防止切割<br>2.進刀速0~25mm <br>3.電源220v、60hz/三相、過載保護<br>4.馬力3hp<br>5.重量約200kg<br>6.尺寸鑽石刀片18in",
+          "image": "B15",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-16",
+          "productName": "水平雙軸拌合機 100L",
+          "size": "1.出料口置於拌合筒下方、手動式控制出料、移動式洩料盤、入口防護蓋安全裝置、 雙軸可拆式葉片<br>2.電源220v、60hz、/三相<br>3.馬力5hp<br>4.轉速約60rpm<br>5.重量:拌合筒容量120l、可拌合容量60l<br>附件 (變頻選購)",
+          "image": "B16",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-17",
+          "productName": "水平雙軸拌合機 100L (含變頻)",
+          "size": "選購商品",
+          "image": "B17",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-18",
+          "productName": "岩石消散試驗儀",
+          "size": "1.壓克力防水罩、#100銅製篩網x2<br>2.電源 110V<br>3.馬力約40w<br>4.重量約20kg<br>5.尺寸800*300*250mm<br>附件:篩網選購",
+          "image": "B18",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-19",
+          "productName": "小型電動水洗篩",
+          "size": "1.不鏽鋼製<br>2.電源 110v<br>3.馬力25w<br>4.重量約20kg<br>選購商品",
+          "image": "B19",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-20",
+          "productName": "高性能錐型流度儀",
+          "size": "1.不鏽鋼製<br>2.選購商品",
+          "image": "B20",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-21",
+          "productName": "高性能箱型流度儀",
+          "size": "1.不鏽鋼製<br>2.選購商品",
+          "image": "B21",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-22",
+          "productName": "高性能U型流度儀",
+          "size": "1.不鏽鋼製<br>2.選購商品",
+          "image": "B22",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-23",
+          "productName": "高性能Y型流度儀",
+          "size": "1.烤漆鐵架約600*320*900mm<br>2.符合CNS國家認證 <br>3.不鏽鋼製、5mm厚度、洩料口75*65",
+          "image": "B23",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-24",
+          "productName": "水泥砂漿流度錐",
+          "size": "1.鋁製錐型筒上開口直徑約178mm、 高度約303mm、下開口不鏽鋼直徑約12.7mm<br>2.符合ASTM<br>3.重量:錐型桶容量約1725ml<br>4尺寸:高約1000mm",
+          "image": "B24",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-25",
+          "productName": "SCC高性能坍度板",
+          "size": " 不鏽鋼800x800x3mm 含調整腳",
+          "image": "B25",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-26",
+          "productName": "電動水泥砂漿流度台",
+          "size": "1.分離式<br>2.轉速每分鐘約100rpm<br>3.電源 110v<br>4.馬力40w<br>5.重量:銅重約4.08kg<br>6.落距12.7<br>附件:錐模搗棒",
+          "image": "B26",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-27",
+          "productName": "手動水泥砂漿流度台",
+          "size": "1.落距12.7<br>2.重量:銅重約4.08kg<br>附件:錐模搗棒",
+          "image": "B27",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-27-1",
+          "productName": "流度台椎模",
+          "size": "選購商品",
+          "image": "B27-1",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-28",
+          "productName": "混凝土透水試驗儀",
+          "size": "1.12*24cm/15*30cm<br>2.壓力最大約25kg<br>3.1200*450*1700mm<br>附件 氮氣瓶x1、調壓閥x3、鋼模x3",
+          "image": "B28",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-29",
+          "productName": "維克針入儀",
+          "size": "1.手動式<br>2.符合ASTM、AASHTO<br>3.重量約300g<br>附件:銅錐模x1、玻璃x1、不鏽鋼針組x1",
+          "image": "B29",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-29-1",
+          "productName": "維克針銅模",
+          "size": "選購商品",
+          "image": "B29-1",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-30",
+          "productName": "吉爾模",
+          "size": "1.凝針直徑1.06mmx1、2.12mmx1(±0.05)<br>2.符合ASTM、AASHTO",
+          "image": "B30",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-31",
+          "productName": "劈裂模15x30cm",
+          "size": "1.選購商品<br>2.符合ASTM、AASHTO",
+          "image": "B31",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-32",
+          "productName": "鄂碎機",
+          "size": "1.可調式出料口15~30mm<br>2.電源:220v/三相<br>3.馬力:3hp<br>4.重量:約200kg/hr<br>5.尺寸約:100*100mm",
+          "image": "B32",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-33",
+          "productName": "砂表干",
+          "size": "銅製錐模、鍍鋅搗棒",
+          "image": "B33",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-34",
+          "productName": "八字模",
+          "size": "1.鑄鐵三聯式<br>2.符合ASTM、AASHTO",
+          "image": "B34",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-35",
+          "productName": "扁平規",
+          "size": "1.不鏽鋼製1:2 1:3 1:4 1:5",
+          "image": "B35",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-36",
+          "productName": "混凝土油壓式貫入儀",
+          "size": ".1.貫入棒直徑4.51mm/6.38mm/9.10mm/14.32mm；20.28mm/28.66mm各x1(±0.01)",
+          "image": "B36",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-37",
+          "productName": "混凝土電子式貫入儀",
+          "size": "1.貫入棒直徑:4.51mm/6.38mm/9.10mm/14.32mm/20.28mm/28.66mm 各x1(±0.01)<br>2.本機不含荷重元",
+          "image": "B37",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-38",
+          "productName": "衝擊試驗儀",
+          "size": "1.直徑約15*15cm<br>2.符合ASTM、AASHTO<br>附件 鋼珠x1",
+          "image": "B38",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-39",
+          "productName": "長度比較儀",
+          "size": "1.水泥熱壓膨脹實驗2.符合ASTM、AASHTO<br>附件:校正棒x1(測微表另購)",
+          "image": "B39",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-40",
+          "productName": "小型抗壓承座",
+          "size": "1.鑽心試體、方塊試體<br>2.符合ASTM、AASHTO<br>附件:承壓塊90*50x1、90*40x1、90*18x1、承壓座x1",
+          "image": "B40",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-41",
+          "productName": "砂漿模 (鋁製)",
+          "size": "1.鋁合金陽極處理、快拆式<br>2.符合CNS國家認證<br>3.重量約5kg<br>4.尺寸50*50*50mm三聯式",
+          "image": "B41",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-42",
+          "productName": "砂漿模 (不鏽鋼製)",
+          "size": "1.不鏽鋼製、快拆式<br>2.符合CNS國家認證<br>3.重量約5kg<br>4.尺寸50*50*50mm三聯式<br>附件:鋼珠x1",
+          "image": "B42",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-43",
+          "productName": "厚薄校正台",
+          "size": "選購商品",
+          "image": "B43",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-44",
+          "productName": "升降式比重桌",
+          "size": "1.手動式<br>2.尺寸:500*600*900mm",
+          "image": "B44",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-45",
+          "productName": "大型電動水洗篩",
+          "size": "選購商品",
+          "image": "B45",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-46",
+          "productName": "電極試驗儀 (壓克力室)",
+          "size": "1.試體直徑約10*10cm<br>2.壓克力製<br>3.重量約3.2kg",
+          "image": "B46",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-47",
+          "productName": "大型腰樑鐵模",
+          "size": "1.鐵製鋼模<br>2.尺寸:6000*400*400mm<br>附件:雙連式",
+          "image": "B47",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-48",
+          "productName": "水中磨耗試驗儀",
+          "size": "1客製<br>2.電源110v<br>3.馬力&frac13;hp",
+          "image": "B48",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-49",
+          "productName": "粉末磨耗試驗儀",
+          "size": "選購商品",
+          "image": "B49",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-50",
+          "productName": "三等分點",
+          "size": "1.15*15*45cm、10*10*30cm抗彎試體專用<br>2.符合CNS國家認證",
+          "image": "B50",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-51",
+          "productName": "潛變",
+          "size": "1.尺寸:15*30cmx3",
+          "image": "B51",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-52",
+          "productName": "抗壓機墊塊",
+          "size": "1.165&Oslash;x60mm<br>選購商品",
+          "image": "B52",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-53",
+          "productName": "鋼珠(顆)",
+          "size": "選購商品",
+          "image": "B53",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-54",
+          "productName": "噴砂機",
+          "size": "選購商品",
+          "image": "B54",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-55",
+          "productName": "膨脹模 25*25*285(二聯式)",
+          "size": "1.選購商品<br>2.尺寸: 25*25*285(二聯式)",
+          "image": "B55",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-56",
+          "productName": "膨脹模 25*25*285(三聯式)",
+          "size": "1.選購商品<br>2.尺寸:25*25*285(三聯式)",
+          "image": "B56",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-57",
+          "productName": "膨脹模 75*75*285(二聯式)",
+          "size": "1.選購商品<br>2.尺寸:75*75*285(二聯式)",
+          "image": "B57",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-58",
+          "productName": "不鏽鋼螺絲#316(顆)",
+          "size": "選購商品",
+          "image": "B58",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-59",
+          "productName": "800*800*2mm度鋅鈑",
+          "size": "選購商品",
+          "image": "B59",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-60",
+          "productName": "800*800*2mm度鋅鈑",
+          "size": "選購商品",
+          "image": "B60",
+          "filte": "2"
+        },
+        {
+          "classification": "混凝土類",
+          "number": "2-61",
+          "productName": "電動水洗機",
+          "size": "選購商品",
+          "image": "B61",
+          "filte": "2"
+        },
+      {
+        "classification": "混凝土類",
+        "number": "2-62",
+        "productName": "衝擊試驗儀",
+        "size": "選購商品",
+        "image": "B62",
+        "filte": "2"
+      }
+
+
+      ]
+    },
+
+    {
+
+      "cat": "tl",
+
+      "data": [{
+
+          "classification": "土壤",
+          "number": "3-1",
+          "productName": "土壤夯實機",
+          "size": "1.CBR土壤專用<br>2.符合ASTM、AASHTO<br> 3.電源110v<br>4.馬力&frac13;<br>5.重量約80kg<br>6.尺寸約250*430*1600mm<br>附件:6in模具、4in模具 各x1",
+          "image": "C01",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-2",
+          "productName": "電動頂樣器",
+          "size": "1.4in/6in模具專用<br>2.電源110v<br>3.馬力&frac12;<br>4.重量約60kg<br>5.尺寸約500*350*600mm",
+          "image": "C02",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-3",
+          "productName": "手動頂樣器",
+          "size": "1.衝程110mm<br>2.千斤頂10頓",
+          "image": "C03",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-4",
+          "productName": "抗壓試驗儀 3in1",
+          "size": "1.速率約0~60mm<br>2.CBR馬歇爾單軸實驗機用 <br>3.電源220v/三相<br>4.馬力1hp伺服馬達/重量約120kg<br>5.尺寸約700*450*1200mm",
+          "image": "C04",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-5",
+          "productName": "單軸試驗儀",
+          "size": "1.電源110v<br>2.馬力25w",
+          "image": "C05",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-6",
+          "productName": "定水頭變水頭(單聯)",
+          "size": "選購",
+          "image": "C06",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-7",
+          "productName": "土壤相對密度",
+          "size": "1.電源220v/三相<br>2.馬力&frac12;<br>附件:模具選購",
+          "image": "C07",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-8",
+          "productName": "土壤相對密度(模具)",
+          "size": "選購",
+          "image": "C08",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-9",
+          "productName": "油壓薄管頂樣器",
+          "size": "1.2.8in 薄管專用、橫式<br>2.電源 220v/三相<br>3.馬力&frac12;hp<br>4.尺寸約長2000-3000mm",
+          "image": "C09",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-10",
+          "productName": "直接剪力試驗儀",
+          "size": "選購商品",
+          "image": "C10",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-11",
+          "productName": "數位式直接剪力試驗儀",
+          "size": "1.數位型<br>2.電源 220v/單相<br>3.馬力1hp伺服馬達",
+          "image": "C11",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-12",
+          "productName": "土壤夯模 4&quot;",
+          "size": "符合CNS國家認證",
+          "image": "C12",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-13",
+          "productName": "土壤夯模 6&quot;",
+          "size": "符合CNS國家認證",
+          "image": "C13",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-14",
+          "productName": "CBR試驗儀",
+          "size": "1.符合CNS國家認證<br>2.電源220v/三相<br>3.馬力&frac12;hp",
+          "image": "C14",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-15",
+          "productName": "CBR模",
+          "size": "1.符合CNS國家認證<br>附件:鉛馬蹄型/鉛圓型/鉛半圓型/膨脹頂扳/三角架/墊塊/刮刀",
+          "image": "C15",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-16",
+          "productName": "鉛馬蹄型",
+          "size": ".<br>2.<br>3.<br>4.<br>",
+          "image": "C16",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-17",
+          "productName": "鉛圓型",
+          "size": "選購商品",
+          "image": "C17",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-18",
+          "productName": "鉛半圓型",
+          "size": "選購商品",
+          "image": "C18",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-19",
+          "productName": "膨脹頂扳",
+          "size": "選購商品",
+          "image": "C19",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-20",
+          "productName": "三角架",
+          "size": "選購商品",
+          "image": "C20",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-21",
+          "productName": "墊塊",
+          "size": "選購商品",
+          "image": "C21",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-22",
+          "productName": "刮刀",
+          "size": "選購商品",
+          "image": "C22",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-23",
+          "productName": "土壤夯錘 5.5磅",
+          "size": "1.5.5磅/10磅<br>2.符合CNS國家認證",
+          "image": "C23",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-24",
+          "productName": "土壤夯錘 10磅",
+          "size": "1.5.5磅/10磅<br>2.符合CNS國家認證",
+          "image": "C24",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-25",
+          "productName": "壓密",
+          "size": "1.符合CNS國家認證",
+          "image": "C25",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-25-1",
+          "productName": "壓密合(室)",
+          "size": "選購商品",
+          "image": "C25-1",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-26",
+          "productName": "擁壁試驗儀",
+          "size": "客製",
+          "image": "C26",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-27",
+          "productName": "基礎的支持力試驗儀",
+          "size": "客製",
+          "image": "C27",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-28",
+          "productName": "圓心管切割機",
+          "size": "1.客製商品<br>2.電源110v<br>3.&frac12;hp/單相",
+          "image": "C28",
+          "filte": "3"
+        },
+        {
+          "classification": "土壤",
+          "number": "3-29",
+          "productName": "變頻式水頻震動台",
+          "size": "1.轉速約5~190rpm<br>2.位移量±12~17mm<br>3.馬達減速比1/10、東元變頻控制器<br>4.輸出頻率設定鍵盤<br>5.約280*200*25mm、相隔20mm1孔固定試驗件用<br>6.馬力1hp <br>7.重量約950*400*470mm",
+          "image": "C29",
+          "filte": "3"
+        }
+      ]
+
+
+    },
+
+    {
+
+      "cat": "ji",
+
+      "data": [
+
+        {
+          "classification": "金相類",
+          "number": "4-1",
+          "productName": "雙盤式研磨拋光機",
+          "size": "1.轉速約0~1000rpm<br>2.直徑約200mm、PVC上盤x2<br>3.電源110v/60hz<br>4.馬力200w <br>5.重量 約40kg",
+          "image": "D01",
+          "filte": "4"
+        },
+        {
+          "classification": "金相類",
+          "number": "4-2",
+          "productName": "岩石切磨機",
+          "size": "1.電源220v/三相<br>2.馬力1hp",
+          "image": "D02",
+          "filte": "4"
+        },
+        {
+          "classification": "金相類",
+          "number": "4-3",
+          "productName": "金相切割機 (35型)",
+          "size": "1.轉速約3600rpm<br>2.電源220v/三相 <br>3.馬力2hp<br>4.切割範圍最大範圍約35mm <br>5.進刀速度 每分鐘約0~25mm<br>6.冷卻系統:<br>a.水冷式內製水箱循環系統、<br>b室內照明、採防水石英照明<br>7.夾具方式<br>a.骰用雙夾具防止式體掉落<br>附件:8in砂輪切割片x1、板手x2、防鏽輪x1、工具箱",
+          "image": "D03",
+          "filte": "4"
+        }
+      ]
+
+
+    },
+
+    {
+        "cat": "ri",
+
+        "data": [
+
+        {
+          "classification": "其他",
+          "number": "5-1",
+          "productName": "落下試驗儀",
+          "size": "選購商品",
+          "image": "E01",
+          "filte": "5"
+        },
+        {
+          "classification": "其他",
+          "number": "5-2",
+          "productName": "拉力試驗儀",
+          "size": "選購商品",
+          "image": "E02",
+          "filte": "5"
+        },
+        {
+          "classification": "其他",
+          "number": "5-3",
+          "productName": "紙箱壓力機",
+          "size": "選購商品",
+          "image": "E03",
+          "filte": "5"
+        },
+        {
+          "classification": "其他",
+          "number": "5-4",
+          "productName": "岩石直剪試驗儀",
+          "size": "選購商品",
+          "image": "E04",
+          "filte": "5"
+        },
+        {
+          "classification": "其他",
+          "number": "5-5",
+          "productName": "單位重量桶 3L",
+          "size": "選購商品",
+          "image": "E05",
+          "filte": "5"
+        },
+        {
+          "classification": "其他",
+          "number": "5-5-1",
+          "productName": "單位重量桶 10L",
+          "size": "選購商品",
+          "image": "E05-1",
+          "filte": "5"
+        },
+        {
+          "classification": "其他",
+          "number": "5-5-2",
+          "productName": "單位重量桶 15L",
+          "size": "選購商品",
+          "image": "E05-2",
+          "filte": "5"
+        },
+        {
+          "classification": "其他",
+          "number": "5-5-3",
+          "productName": "單位重量桶 30L",
+          "size": "選購商品",
+          "image": "E05-3",
+          "filte": "5"
+        },
+        {
+          "classification": "其他",
+          "number": "5-6",
+          "productName": "校正桶",
+          "size": "選購商品",
+          "image": "E06",
+          "filte": "5"
+        }
+      ]
+    }
+
+  ]
+}
+
+
